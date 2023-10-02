@@ -11,7 +11,9 @@ This courseware on Finite Element Methods addresses standard and advanced Finite
 \
 Moreover, the interactive courseware uses extensively the [MATLAB&reg;](https://www.mathworks.com/products/matlab.html) Live Editor and the [Symbolic Math Toolbox&trade;](https://www.mathworks.com/products/symbolic.html) for the development and the presentation.\
 \
-Additionally, a comprehensive (but not exhaustive) set of [MATLAB Grader](https://grader.mathworks.com/) assignments for this material exist. These assignments touch upon the topics mentioned in each of the chapters in the courseware syllabus. Please reach out to Andreas Apostolatos ([aapostol@mathworks.com](mailto:aapostol@mathworks.com)) to request access to the underlying MATLAB Grader assignments.
+Additionally, a comprehensive (but not exhaustive) set of [MATLAB Grader](https://grader.mathworks.com/) assignments for this material exist. These assignments touch upon the topics mentioned in each of the chapters in the courseware syllabus. Please reach out to Andreas Apostolatos ([aapostol@mathworks.com](mailto:aapostol@mathworks.com)) to request access to the underlying MATLAB Grader assignments.\
+\
+Please refer to the recording **``Introduction-to-the-Courseware-on-Finite-Element-Methods.mp4``** under folder **``2_Introduction/``** for a short introduction on how to use the courseware along with its main highlights
 
 ## Owner/s
 Andreas Apostolatos, PhD ([aapostol@mathworks.com](mailto:aapostol@mathworks.com))
