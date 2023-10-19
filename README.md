@@ -7,7 +7,7 @@ _Created with R2022b. Compatible with R2022b and later releases._
 
 ## Description ##
 
-This courseware on Finite Element Methods addresses standard and advanced Finite Element formulations for shear-deformable lightweight structures of the Timoshenko beam and Reissner-Minldin plate types.\
+This courseware on Finite Element Methods addresses standard and advanced Finite Element formulations for shear-deformable lightweight structures of the Timoshenko beam and Reissner-Mindlin plate types.\
 \
 Moreover, the interactive courseware uses extensively the [MATLAB&reg;](https://www.mathworks.com/products/matlab.html) Live Editor and the [Symbolic Math Toolbox&trade;](https://www.mathworks.com/products/symbolic.html) for the development and the presentation.\
 \
